@@ -1,0 +1,7 @@
+id = "graphite-theme"
+name = "Graphite"
+version = "0.0.1"
+schema_version = 1
+authors = ["Raffaele Lungarella"]
+description = "A lighter version of One Dark based on gray tones"
+repository = "https://github.com/raffaele-lungarella/graphite"
